@@ -4,5 +4,5 @@ Este projeto utiliza **Java RMI (Remote Method Invocation)** para criar uma apli
 Esse projeto foi apresentado a desciplina de Sistemas Distribuidos ministrada pelo professor Jefferson Silva Lopes.
 
 Abaixo, temos uma imagem que ilustra o funcionamento do projeto.
-![Captura de Tela](Captura de tela 2024-09-27 193152.png)
+![Captura de Tela](image.png)
 
